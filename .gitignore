@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# AITEX images (~180 MB): not committed. See README "Getting the data".
+data/aitex/Defect_images/
+data/aitex/Mask_images/
+data/aitex/NODefect_images/
+
+# ImageNet ResNet-18 weights (45 MB): downloaded automatically on first run
+models/resnet18_*.pth
+
+# Gradio temp files
+.gradio/
+flagged/

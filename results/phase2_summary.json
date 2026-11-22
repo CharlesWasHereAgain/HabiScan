@@ -1,0 +1,32 @@
+{
+  "counts": [
+    {
+      "split": "calib",
+      "is_defect": 0,
+      "n": 28
+    },
+    {
+      "split": "excluded",
+      "is_defect": 1,
+      "n": 2
+    },
+    {
+      "split": "fit",
+      "is_defect": 0,
+      "n": 56
+    },
+    {
+      "split": "test",
+      "is_defect": 0,
+      "n": 57
+    },
+    {
+      "split": "test",
+      "is_defect": 1,
+      "n": 104
+    }
+  ],
+  "tiles_per_image": 16,
+  "tiling_lossless": true,
+  "no_image_in_two_splits": true
+}

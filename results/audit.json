@@ -1,0 +1,50 @@
+{
+  "defect_free_images": 141,
+  "defective_images": 106,
+  "total_images": 247,
+  "defective_with_usable_mask": 104,
+  "no_mask": [
+    "0100_025_08.png"
+  ],
+  "empty_mask": [
+    "0106_010_03.png"
+  ],
+  "fabrics_defect_free": {
+    "00": 20,
+    "01": 21,
+    "02": 20,
+    "03": 20,
+    "04": 20,
+    "05": 20,
+    "06": 20
+  },
+  "fabrics_defective": {
+    "00": 7,
+    "01": 12,
+    "02": 38,
+    "03": 31,
+    "04": 10,
+    "05": 1,
+    "06": 6,
+    "08": 1
+  },
+  "defect_types": {
+    "Fuzzyball": 39,
+    "Nep": 14,
+    "Broken pick": 10,
+    "Broken end": 9,
+    "Cut selvage": 9,
+    "Broken yarn": 8,
+    "Warp ball": 6,
+    "Crease": 5,
+    "Weft curling": 3,
+    "Weft crack": 1,
+    "Contamination": 1,
+    "Knots": 1
+  },
+  "defect_area_pct": {
+    "median": 0.0095367431640625,
+    "max": 22.268199920654297,
+    "share_under_0.1pct": 0.7692307692307693
+  }
+}

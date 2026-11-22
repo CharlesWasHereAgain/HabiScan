@@ -1,0 +1,35 @@
+{
+  "max_abs_difference_known_fabric_vs_phase4": 0.00016164779663130346,
+  "verdicts_known_fabric": {
+    "tp": 73,
+    "fp": 3,
+    "fn": 31,
+    "tn": 54
+  },
+  "verdicts_auto_detect": {
+    "tp": 73,
+    "fp": 3,
+    "fn": 31,
+    "tn": 54
+  },
+  "verdicts_phase4": {
+    "tp": 73,
+    "fp": 3,
+    "fn": 31,
+    "tn": 54
+  },
+  "auto_detect_correct_fabric": {
+    "defect_free_images": 1.0,
+    "defective_images": 0.7403846153846154
+  },
+  "auto_detect_by_fabric": {
+    "00": 0.8421052631578947,
+    "01": 0.96,
+    "02": 0.54,
+    "03": 1.0,
+    "04": 1.0,
+    "05": 1.0,
+    "06": 1.0
+  },
+  "seconds_per_strip_with_auto_detect": 0.6435983281917673
+}

@@ -1,0 +1,91 @@
+{
+  "protocol": "zero-shot leave-one-fabric-out: bank = other 6 fabrics' Phase 4 coresets; position ceiling = median of their ceilings; image threshold = 95th percentile of their defect-free calibration scores. Nothing from the held-out fabric is used.",
+  "fabrics_in_mean_auroc": [
+    "00",
+    "01",
+    "02",
+    "03",
+    "04",
+    "06"
+  ],
+  "pooled": {
+    "in-fabric (Phase 4)": {
+      "n_defect": 104,
+      "n_good": 57,
+      "tp": 73,
+      "fp": 3,
+      "fn": 31,
+      "tn": 54,
+      "detection_rate": 0.7019230769230769,
+      "false_alarm_rate": 0.05263157894736842,
+      "accuracy": 0.7888198757763976,
+      "precision": 0.9605263157894737,
+      "f1": 0.811111111111111,
+      "image_auroc": 0.9353913630229419,
+      "tile_auroc": 0.6804191200672933,
+      "top_tile_hit_rate": 0.2980769230769231,
+      "top_tile_chance_rate": 0.11121794871794871,
+      "mean_image_auroc_per_fabric": 0.9161601921470343
+    },
+    "new fabric, zero-shot (LOFO)": {
+      "n_defect": 104,
+      "n_good": 57,
+      "tp": 97,
+      "fp": 48,
+      "fn": 7,
+      "tn": 9,
+      "detection_rate": 0.9326923076923077,
+      "false_alarm_rate": 0.8421052631578947,
+      "accuracy": 0.6583850931677019,
+      "precision": 0.6689655172413793,
+      "f1": 0.7791164658634537,
+      "image_auroc": 0.6752699055330635,
+      "tile_auroc": 0.7528727645101123,
+      "top_tile_hit_rate": 0.33653846153846156,
+      "top_tile_chance_rate": 0.11121794871794871,
+      "mean_image_auroc_per_fabric": 0.6254745660447415
+    }
+  },
+  "zero_shot_bootstrap_95ci": {
+    "detection_rate": [
+      0.8796296296296297,
+      0.9791666666666666
+    ],
+    "false_alarm_rate": [
+      0.75,
+      0.9310344827586207
+    ],
+    "accuracy": [
+      0.5900621118012422,
+      0.7329192546583851
+    ],
+    "tile_auroc_zero_shot_minus_in_fabric": [
+      -0.014701391599235015,
+      0.15264856733611573
+    ],
+    "top_tile_hit_zero_shot_minus_in_fabric": [
+      -0.05769230769230771,
+      0.14423076923076922
+    ]
+  },
+  "fold_thresholds": {
+    "00": 1.5788480222225187,
+    "01": 1.5147142350673675,
+    "02": 1.6676264047622678,
+    "03": 1.5788480222225187,
+    "04": 1.9134730637073514,
+    "05": 1.7381384193897247,
+    "06": 1.6385859429836271
+  },
+  "fold_bank_sizes": {
+    "00": 7860,
+    "01": 7860,
+    "02": 7860,
+    "03": 7860,
+    "04": 7860,
+    "05": 7860,
+    "06": 7860
+  },
+  "seconds_per_strip_zero_shot": 0.6389391629592233,
+  "runtime_seconds_total": 292.6548562049866
+}

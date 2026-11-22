@@ -1,0 +1,248 @@
+name,path,fabric,defect,is_defect,split,mask_pixels,defect_name
+0001_002_00.png,data/aitex/Defect_images/0001_002_00.png,00,002,1,test,1395,Broken end
+0002_002_00.png,data/aitex/Defect_images/0002_002_00.png,00,002,1,test,1208,Broken end
+0003_002_00.png,data/aitex/Defect_images/0003_002_00.png,00,002,1,test,446,Broken end
+0004_002_01.png,data/aitex/Defect_images/0004_002_01.png,01,002,1,test,2050,Broken end
+0005_002_01.png,data/aitex/Defect_images/0005_002_01.png,01,002,1,test,2566,Broken end
+0006_002_01.png,data/aitex/Defect_images/0006_002_01.png,01,002,1,test,327,Broken end
+0010_006_02.png,data/aitex/Defect_images/0010_006_02.png,02,006,1,test,2306,Broken yarn
+0011_006_02.png,data/aitex/Defect_images/0011_006_02.png,02,006,1,test,2340,Broken yarn
+0012_006_02.png,data/aitex/Defect_images/0012_006_02.png,02,006,1,test,1416,Broken yarn
+0013_006_02.png,data/aitex/Defect_images/0013_006_02.png,02,006,1,test,1155,Broken yarn
+0014_006_02.png,data/aitex/Defect_images/0014_006_02.png,02,006,1,test,1504,Broken yarn
+0015_006_02.png,data/aitex/Defect_images/0015_006_02.png,02,006,1,test,861,Broken yarn
+0016_006_02.png,data/aitex/Defect_images/0016_006_02.png,02,006,1,test,2375,Broken yarn
+0017_002_02.png,data/aitex/Defect_images/0017_002_02.png,02,002,1,test,164,Broken end
+0018_010_03.png,data/aitex/Defect_images/0018_010_03.png,03,010,1,test,1751,Broken pick
+0019_016_03.png,data/aitex/Defect_images/0019_016_03.png,03,016,1,test,436,Weft curling
+0020_016_03.png,data/aitex/Defect_images/0020_016_03.png,03,016,1,test,794,Weft curling
+0021_016_03.png,data/aitex/Defect_images/0021_016_03.png,03,016,1,test,1229,Weft curling
+0022_019_02.png,data/aitex/Defect_images/0022_019_02.png,02,019,1,test,32,Fuzzyball
+0023_019_02.png,data/aitex/Defect_images/0023_019_02.png,02,019,1,test,57,Fuzzyball
+0024_019_02.png,data/aitex/Defect_images/0024_019_02.png,02,019,1,test,54,Fuzzyball
+0025_019_02.png,data/aitex/Defect_images/0025_019_02.png,02,019,1,test,9,Fuzzyball
+0026_019_02.png,data/aitex/Defect_images/0026_019_02.png,02,019,1,test,20,Fuzzyball
+0027_019_02.png,data/aitex/Defect_images/0027_019_02.png,02,019,1,test,15,Fuzzyball
+0028_019_02.png,data/aitex/Defect_images/0028_019_02.png,02,019,1,test,18,Fuzzyball
+0029_019_02.png,data/aitex/Defect_images/0029_019_02.png,02,019,1,test,23,Fuzzyball
+0030_019_02.png,data/aitex/Defect_images/0030_019_02.png,02,019,1,test,12,Fuzzyball
+0031_019_02.png,data/aitex/Defect_images/0031_019_02.png,02,019,1,test,10,Fuzzyball
+0032_019_02.png,data/aitex/Defect_images/0032_019_02.png,02,019,1,test,10,Fuzzyball
+0033_019_02.png,data/aitex/Defect_images/0033_019_02.png,02,019,1,test,14,Fuzzyball
+0034_019_02.png,data/aitex/Defect_images/0034_019_02.png,02,019,1,test,9,Fuzzyball
+0035_019_02.png,data/aitex/Defect_images/0035_019_02.png,02,019,1,test,20,Fuzzyball
+0036_019_02.png,data/aitex/Defect_images/0036_019_02.png,02,019,1,test,19,Fuzzyball
+0037_019_02.png,data/aitex/Defect_images/0037_019_02.png,02,019,1,test,18,Fuzzyball
+0038_019_02.png,data/aitex/Defect_images/0038_019_02.png,02,019,1,test,23,Fuzzyball
+0039_019_02.png,data/aitex/Defect_images/0039_019_02.png,02,019,1,test,37,Fuzzyball
+0040_019_02.png,data/aitex/Defect_images/0040_019_02.png,02,019,1,test,24,Fuzzyball
+0041_019_02.png,data/aitex/Defect_images/0041_019_02.png,02,019,1,test,30,Fuzzyball
+0042_019_02.png,data/aitex/Defect_images/0042_019_02.png,02,019,1,test,15,Fuzzyball
+0043_019_04.png,data/aitex/Defect_images/0043_019_04.png,04,019,1,test,46,Fuzzyball
+0044_019_04.png,data/aitex/Defect_images/0044_019_04.png,04,019,1,test,82,Fuzzyball
+0045_019_04.png,data/aitex/Defect_images/0045_019_04.png,04,019,1,test,45,Fuzzyball
+0046_019_04.png,data/aitex/Defect_images/0046_019_04.png,04,019,1,test,29,Fuzzyball
+0047_019_04.png,data/aitex/Defect_images/0047_019_04.png,04,019,1,test,18,Fuzzyball
+0048_019_04.png,data/aitex/Defect_images/0048_019_04.png,04,019,1,test,73,Fuzzyball
+0049_030_03.png,data/aitex/Defect_images/0049_030_03.png,03,030,1,test,61,Nep
+0050_019_03.png,data/aitex/Defect_images/0050_019_03.png,03,019,1,test,38,Fuzzyball
+0051_019_03.png,data/aitex/Defect_images/0051_019_03.png,03,019,1,test,43,Fuzzyball
+0052_019_03.png,data/aitex/Defect_images/0052_019_03.png,03,019,1,test,33,Fuzzyball
+0053_019_03.png,data/aitex/Defect_images/0053_019_03.png,03,019,1,test,17,Fuzzyball
+0054_019_03.png,data/aitex/Defect_images/0054_019_03.png,03,019,1,test,40,Fuzzyball
+0055_019_06.png,data/aitex/Defect_images/0055_019_06.png,06,019,1,test,25,Fuzzyball
+0056_019_06.png,data/aitex/Defect_images/0056_019_06.png,06,019,1,test,50,Fuzzyball
+0057_019_06.png,data/aitex/Defect_images/0057_019_06.png,06,019,1,test,37,Fuzzyball
+0058_019_06.png,data/aitex/Defect_images/0058_019_06.png,06,019,1,test,29,Fuzzyball
+0059_019_01.png,data/aitex/Defect_images/0059_019_01.png,01,019,1,test,31,Fuzzyball
+0060_022_06.png,data/aitex/Defect_images/0060_022_06.png,06,022,1,test,326,Cut selvage
+0061_022_06.png,data/aitex/Defect_images/0061_022_06.png,06,022,1,test,238,Cut selvage
+0062_022_00.png,data/aitex/Defect_images/0062_022_00.png,00,022,1,test,166,Cut selvage
+0063_022_00.png,data/aitex/Defect_images/0063_022_00.png,00,022,1,test,456,Cut selvage
+0064_022_00.png,data/aitex/Defect_images/0064_022_00.png,00,022,1,test,420,Cut selvage
+0065_022_00.png,data/aitex/Defect_images/0065_022_00.png,00,022,1,test,473,Cut selvage
+0066_023_01.png,data/aitex/Defect_images/0066_023_01.png,01,023,1,test,583,Crease
+0067_023_01.png,data/aitex/Defect_images/0067_023_01.png,01,023,1,test,708,Crease
+0068_023_02.png,data/aitex/Defect_images/0068_023_02.png,02,023,1,test,1517,Crease
+0069_023_02.png,data/aitex/Defect_images/0069_023_02.png,02,023,1,test,1050,Crease
+0070_023_02.png,data/aitex/Defect_images/0070_023_02.png,02,023,1,test,682,Crease
+0071_030_03.png,data/aitex/Defect_images/0071_030_03.png,03,030,1,test,43,Nep
+0072_010_03.png,data/aitex/Defect_images/0072_010_03.png,03,010,1,test,2534,Broken pick
+0073_010_03.png,data/aitex/Defect_images/0073_010_03.png,03,010,1,test,4796,Broken pick
+0074_010_03.png,data/aitex/Defect_images/0074_010_03.png,03,010,1,test,3052,Broken pick
+0075_010_03.png,data/aitex/Defect_images/0075_010_03.png,03,010,1,test,16155,Broken pick
+0076_030_03.png,data/aitex/Defect_images/0076_030_03.png,03,030,1,test,232,Nep
+0077_022_03.png,data/aitex/Defect_images/0077_022_03.png,03,022,1,test,91,Cut selvage
+0078_025_03.png,data/aitex/Defect_images/0078_025_03.png,03,025,1,test,20,Warp ball
+0079_025_03.png,data/aitex/Defect_images/0079_025_03.png,03,025,1,test,24,Warp ball
+0080_036_01.png,data/aitex/Defect_images/0080_036_01.png,01,036,1,test,233499,Weft crack
+0081_006_04.png,data/aitex/Defect_images/0081_006_04.png,04,006,1,test,4078,Broken yarn
+0082_030_04.png,data/aitex/Defect_images/0082_030_04.png,04,030,1,test,136,Nep
+0083_029_04.png,data/aitex/Defect_images/0083_029_04.png,04,029,1,test,301,Contamination
+0084_030_04.png,data/aitex/Defect_images/0084_030_04.png,04,030,1,test,20,Nep
+0085_030_02.png,data/aitex/Defect_images/0085_030_02.png,02,030,1,test,39,Nep
+0086_030_02.png,data/aitex/Defect_images/0086_030_02.png,02,030,1,test,103,Nep
+0087_030_02.png,data/aitex/Defect_images/0087_030_02.png,02,030,1,test,35,Nep
+0088_030_02.png,data/aitex/Defect_images/0088_030_02.png,02,030,1,test,493,Nep
+0089_002_01.png,data/aitex/Defect_images/0089_002_01.png,01,002,1,test,718,Broken end
+0090_002_01.png,data/aitex/Defect_images/0090_002_01.png,01,002,1,test,558,Broken end
+0091_030_01.png,data/aitex/Defect_images/0091_030_01.png,01,030,1,test,295,Nep
+0092_030_01.png,data/aitex/Defect_images/0092_030_01.png,01,030,1,test,293,Nep
+0093_030_01.png,data/aitex/Defect_images/0093_030_01.png,01,030,1,test,97,Nep
+0094_027_05.png,data/aitex/Defect_images/0094_027_05.png,05,027,1,test,265,Knots
+0095_010_03.png,data/aitex/Defect_images/0095_010_03.png,03,010,1,test,9481,Broken pick
+0096_030_03.png,data/aitex/Defect_images/0096_030_03.png,03,030,1,test,149,Nep
+0097_030_03.png,data/aitex/Defect_images/0097_030_03.png,03,030,1,test,86,Nep
+0098_019_02.png,data/aitex/Defect_images/0098_019_02.png,02,019,1,test,14,Fuzzyball
+0099_019_02.png,data/aitex/Defect_images/0099_019_02.png,02,019,1,test,18,Fuzzyball
+0100_025_08.png,data/aitex/Defect_images/0100_025_08.png,08,025,1,excluded,0,Warp ball
+0101_022_03.png,data/aitex/Defect_images/0101_022_03.png,03,022,1,test,278,Cut selvage
+0102_010_03.png,data/aitex/Defect_images/0102_010_03.png,03,010,1,test,30545,Broken pick
+0103_010_03.png,data/aitex/Defect_images/0103_010_03.png,03,010,1,test,143220,Broken pick
+0104_022_03.png,data/aitex/Defect_images/0104_022_03.png,03,022,1,test,280,Cut selvage
+0105_010_03.png,data/aitex/Defect_images/0105_010_03.png,03,010,1,test,5488,Broken pick
+0106_010_03.png,data/aitex/Defect_images/0106_010_03.png,03,010,1,excluded,0,Broken pick
+0107_025_03.png,data/aitex/Defect_images/0107_025_03.png,03,025,1,test,28,Warp ball
+0108_025_03.png,data/aitex/Defect_images/0108_025_03.png,03,025,1,test,16,Warp ball
+0109_025_03.png,data/aitex/Defect_images/0109_025_03.png,03,025,1,test,12,Warp ball
+0015_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0015_000_00.png,00,000,0,fit,0,No defect
+0010_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0010_000_00.png,00,000,0,fit,0,No defect
+0014_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0014_000_00.png,00,000,0,fit,0,No defect
+0012_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0012_000_00.png,00,000,0,fit,0,No defect
+0003_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0003_000_00.png,00,000,0,fit,0,No defect
+0009_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0009_000_00.png,00,000,0,fit,0,No defect
+0011_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0011_000_00.png,00,000,0,fit,0,No defect
+0007_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0007_000_00.png,00,000,0,fit,0,No defect
+0006_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0006_000_00.png,00,000,0,calib,0,No defect
+0008_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0008_000_00.png,00,000,0,calib,0,No defect
+0004_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0004_000_00.png,00,000,0,calib,0,No defect
+0002_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0002_000_00.png,00,000,0,calib,0,No defect
+0005_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0005_000_00.png,00,000,0,test,0,No defect
+0013_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0013_000_00.png,00,000,0,test,0,No defect
+0019_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0019_000_00.png,00,000,0,test,0,No defect
+0020_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0020_000_00.png,00,000,0,test,0,No defect
+0017_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0017_000_00.png,00,000,0,test,0,No defect
+0018_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0018_000_00.png,00,000,0,test,0,No defect
+0001_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0001_000_00.png,00,000,0,test,0,No defect
+0016_000_00.png,data/aitex/NODefect_images/2311694-2040n7u/0016_000_00.png,00,000,0,test,0,No defect
+0007_000_01.png,data/aitex/NODefect_images/2608691-202020u/0007_000_01.png,01,000,0,fit,0,No defect
+0013_000_01.png,data/aitex/NODefect_images/2608691-202020u/0013_000_01.png,01,000,0,fit,0,No defect
+0015_000_01.png,data/aitex/NODefect_images/2608691-202020u/0015_000_01.png,01,000,0,fit,0,No defect
+0019_000_01.png,data/aitex/NODefect_images/2608691-202020u/0019_000_01.png,01,000,0,fit,0,No defect
+0010_000_01.png,data/aitex/NODefect_images/2608691-202020u/0010_000_01.png,01,000,0,fit,0,No defect
+0001_000_01.png,data/aitex/NODefect_images/2608691-202020u/0001_000_01.png,01,000,0,fit,0,No defect
+0004_000_01.png,data/aitex/NODefect_images/2608691-202020u/0004_000_01.png,01,000,0,fit,0,No defect
+0017_000_01.png,data/aitex/NODefect_images/2608691-202020u/0017_000_01.png,01,000,0,fit,0,No defect
+0003_000_01.png,data/aitex/NODefect_images/2608691-202020u/0003_000_01.png,01,000,0,calib,0,No defect
+0011_000_01.png,data/aitex/NODefect_images/2608691-202020u/0011_000_01.png,01,000,0,calib,0,No defect
+0014_000_01.png,data/aitex/NODefect_images/2608691-202020u/0014_000_01.png,01,000,0,calib,0,No defect
+0018_00_01.png,data/aitex/NODefect_images/2608691-202020u/0018_00_01.png,01,00,0,calib,0,No defect
+0002_000_01.png,data/aitex/NODefect_images/2608691-202020u/0002_000_01.png,01,000,0,test,0,No defect
+0018_000_01.png,data/aitex/NODefect_images/2608691-202020u/0018_000_01.png,01,000,0,test,0,No defect
+0008_000_01.png,data/aitex/NODefect_images/2608691-202020u/0008_000_01.png,01,000,0,test,0,No defect
+0012_000_01.png,data/aitex/NODefect_images/2608691-202020u/0012_000_01.png,01,000,0,test,0,No defect
+0020_000_01.png,data/aitex/NODefect_images/2608691-202020u/0020_000_01.png,01,000,0,test,0,No defect
+0006_000_01.png,data/aitex/NODefect_images/2608691-202020u/0006_000_01.png,01,000,0,test,0,No defect
+0005_000_01.png,data/aitex/NODefect_images/2608691-202020u/0005_000_01.png,01,000,0,test,0,No defect
+0016_000_01.png,data/aitex/NODefect_images/2608691-202020u/0016_000_01.png,01,000,0,test,0,No defect
+0009_000_01.png,data/aitex/NODefect_images/2608691-202020u/0009_000_01.png,01,000,0,test,0,No defect
+0018_000_02.png,data/aitex/NODefect_images/2306894-210033u/0018_000_02.png,02,000,0,fit,0,No defect
+0011_000_02.png,data/aitex/NODefect_images/2306894-210033u/0011_000_02.png,02,000,0,fit,0,No defect
+0001_000_02.png,data/aitex/NODefect_images/2306894-210033u/0001_000_02.png,02,000,0,fit,0,No defect
+0014_000_02.png,data/aitex/NODefect_images/2306894-210033u/0014_000_02.png,02,000,0,fit,0,No defect
+0019_000_02.png,data/aitex/NODefect_images/2306894-210033u/0019_000_02.png,02,000,0,fit,0,No defect
+0002_000_02.png,data/aitex/NODefect_images/2306894-210033u/0002_000_02.png,02,000,0,fit,0,No defect
+0017_000_02.png,data/aitex/NODefect_images/2306894-210033u/0017_000_02.png,02,000,0,fit,0,No defect
+0009_000_02.png,data/aitex/NODefect_images/2306894-210033u/0009_000_02.png,02,000,0,fit,0,No defect
+0003_000_02.png,data/aitex/NODefect_images/2306894-210033u/0003_000_02.png,02,000,0,calib,0,No defect
+0020_000_02.png,data/aitex/NODefect_images/2306894-210033u/0020_000_02.png,02,000,0,calib,0,No defect
+0007_000_02.png,data/aitex/NODefect_images/2306894-210033u/0007_000_02.png,02,000,0,calib,0,No defect
+0013_000_02.png,data/aitex/NODefect_images/2306894-210033u/0013_000_02.png,02,000,0,calib,0,No defect
+0008_000_02.png,data/aitex/NODefect_images/2306894-210033u/0008_000_02.png,02,000,0,test,0,No defect
+0005_000_02.png,data/aitex/NODefect_images/2306894-210033u/0005_000_02.png,02,000,0,test,0,No defect
+0016_000_02.png,data/aitex/NODefect_images/2306894-210033u/0016_000_02.png,02,000,0,test,0,No defect
+0010_000_02.png,data/aitex/NODefect_images/2306894-210033u/0010_000_02.png,02,000,0,test,0,No defect
+0015_000_02.png,data/aitex/NODefect_images/2306894-210033u/0015_000_02.png,02,000,0,test,0,No defect
+0012_000_02.png,data/aitex/NODefect_images/2306894-210033u/0012_000_02.png,02,000,0,test,0,No defect
+0006_000_02.png,data/aitex/NODefect_images/2306894-210033u/0006_000_02.png,02,000,0,test,0,No defect
+0004_000_02.png,data/aitex/NODefect_images/2306894-210033u/0004_000_02.png,02,000,0,test,0,No defect
+0001_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0001_000_03.png,03,000,0,fit,0,No defect
+0015_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0015_000_03.png,03,000,0,fit,0,No defect
+0014_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0014_000_03.png,03,000,0,fit,0,No defect
+0013_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0013_000_03.png,03,000,0,fit,0,No defect
+0004_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0004_000_03.png,03,000,0,fit,0,No defect
+0012_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0012_000_03.png,03,000,0,fit,0,No defect
+0002_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0002_000_03.png,03,000,0,fit,0,No defect
+0020_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0020_000_03.png,03,000,0,fit,0,No defect
+0008_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0008_000_03.png,03,000,0,calib,0,No defect
+0009_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0009_000_03.png,03,000,0,calib,0,No defect
+0006_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0006_000_03.png,03,000,0,calib,0,No defect
+0016_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0016_000_03.png,03,000,0,calib,0,No defect
+0010_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0010_000_03.png,03,000,0,test,0,No defect
+0003_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0003_000_03.png,03,000,0,test,0,No defect
+0017_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0017_000_03.png,03,000,0,test,0,No defect
+0011_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0011_000_03.png,03,000,0,test,0,No defect
+0005_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0005_000_03.png,03,000,0,test,0,No defect
+0007_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0007_000_03.png,03,000,0,test,0,No defect
+0018_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0018_000_03.png,03,000,0,test,0,No defect
+0019_000_03.png,data/aitex/NODefect_images/2311694-1930c7u/0019_000_03.png,03,000,0,test,0,No defect
+0014_000_04.png,data/aitex/NODefect_images/2311517-195063u/0014_000_04.png,04,000,0,fit,0,No defect
+0003_000_04.png,data/aitex/NODefect_images/2311517-195063u/0003_000_04.png,04,000,0,fit,0,No defect
+0007_000_04.png,data/aitex/NODefect_images/2311517-195063u/0007_000_04.png,04,000,0,fit,0,No defect
+0001_000_04.png,data/aitex/NODefect_images/2311517-195063u/0001_000_04.png,04,000,0,fit,0,No defect
+0010_000_04.png,data/aitex/NODefect_images/2311517-195063u/0010_000_04.png,04,000,0,fit,0,No defect
+0018_000_04.png,data/aitex/NODefect_images/2311517-195063u/0018_000_04.png,04,000,0,fit,0,No defect
+0004_000_04.png,data/aitex/NODefect_images/2311517-195063u/0004_000_04.png,04,000,0,fit,0,No defect
+0008_000_04.png,data/aitex/NODefect_images/2311517-195063u/0008_000_04.png,04,000,0,fit,0,No defect
+0015_000_04.png,data/aitex/NODefect_images/2311517-195063u/0015_000_04.png,04,000,0,calib,0,No defect
+0011_000_04.png,data/aitex/NODefect_images/2311517-195063u/0011_000_04.png,04,000,0,calib,0,No defect
+0016_000_04.png,data/aitex/NODefect_images/2311517-195063u/0016_000_04.png,04,000,0,calib,0,No defect
+0019_000_04.png,data/aitex/NODefect_images/2311517-195063u/0019_000_04.png,04,000,0,calib,0,No defect
+0009_000_04.png,data/aitex/NODefect_images/2311517-195063u/0009_000_04.png,04,000,0,test,0,No defect
+0017_000_04.png,data/aitex/NODefect_images/2311517-195063u/0017_000_04.png,04,000,0,test,0,No defect
+0012_000_04.png,data/aitex/NODefect_images/2311517-195063u/0012_000_04.png,04,000,0,test,0,No defect
+0002_000_04.png,data/aitex/NODefect_images/2311517-195063u/0002_000_04.png,04,000,0,test,0,No defect
+0006_000_04.png,data/aitex/NODefect_images/2311517-195063u/0006_000_04.png,04,000,0,test,0,No defect
+0005_000_04.png,data/aitex/NODefect_images/2311517-195063u/0005_000_04.png,04,000,0,test,0,No defect
+0020_000_04.png,data/aitex/NODefect_images/2311517-195063u/0020_000_04.png,04,000,0,test,0,No defect
+0013_000_04.png,data/aitex/NODefect_images/2311517-195063u/0013_000_04.png,04,000,0,test,0,No defect
+0015_000_05.png,data/aitex/NODefect_images/2306881-210020u/0015_000_05.png,05,000,0,fit,0,No defect
+0017_000_05.png,data/aitex/NODefect_images/2306881-210020u/0017_000_05.png,05,000,0,fit,0,No defect
+0016_000_05.png,data/aitex/NODefect_images/2306881-210020u/0016_000_05.png,05,000,0,fit,0,No defect
+0007_000_05.png,data/aitex/NODefect_images/2306881-210020u/0007_000_05.png,05,000,0,fit,0,No defect
+0018_000_05.png,data/aitex/NODefect_images/2306881-210020u/0018_000_05.png,05,000,0,fit,0,No defect
+0020_000_05.png,data/aitex/NODefect_images/2306881-210020u/0020_000_05.png,05,000,0,fit,0,No defect
+0006_000_05.png,data/aitex/NODefect_images/2306881-210020u/0006_000_05.png,05,000,0,fit,0,No defect
+0005_000_05.png,data/aitex/NODefect_images/2306881-210020u/0005_000_05.png,05,000,0,fit,0,No defect
+0009_000_05.png,data/aitex/NODefect_images/2306881-210020u/0009_000_05.png,05,000,0,calib,0,No defect
+0002_000_05.png,data/aitex/NODefect_images/2306881-210020u/0002_000_05.png,05,000,0,calib,0,No defect
+0001_000_05.png,data/aitex/NODefect_images/2306881-210020u/0001_000_05.png,05,000,0,calib,0,No defect
+0011_000_05.png,data/aitex/NODefect_images/2306881-210020u/0011_000_05.png,05,000,0,calib,0,No defect
+0003_000_05.png,data/aitex/NODefect_images/2306881-210020u/0003_000_05.png,05,000,0,test,0,No defect
+0013_000_05.png,data/aitex/NODefect_images/2306881-210020u/0013_000_05.png,05,000,0,test,0,No defect
+0019_000_05.png,data/aitex/NODefect_images/2306881-210020u/0019_000_05.png,05,000,0,test,0,No defect
+0010_000_05.png,data/aitex/NODefect_images/2306881-210020u/0010_000_05.png,05,000,0,test,0,No defect
+0008_000_05.png,data/aitex/NODefect_images/2306881-210020u/0008_000_05.png,05,000,0,test,0,No defect
+0012_000_05.png,data/aitex/NODefect_images/2306881-210020u/0012_000_05.png,05,000,0,test,0,No defect
+0004_000_05.png,data/aitex/NODefect_images/2306881-210020u/0004_000_05.png,05,000,0,test,0,No defect
+0014_000_05.png,data/aitex/NODefect_images/2306881-210020u/0014_000_05.png,05,000,0,test,0,No defect
+0019_000_06.png,data/aitex/NODefect_images/2311980-185026u/0019_000_06.png,06,000,0,fit,0,No defect
+0009_000_06.png,data/aitex/NODefect_images/2311980-185026u/0009_000_06.png,06,000,0,fit,0,No defect
+0010_000_06.png,data/aitex/NODefect_images/2311980-185026u/0010_000_06.png,06,000,0,fit,0,No defect
+0003_000_06.png,data/aitex/NODefect_images/2311980-185026u/0003_000_06.png,06,000,0,fit,0,No defect
+0011_000_06.png,data/aitex/NODefect_images/2311980-185026u/0011_000_06.png,06,000,0,fit,0,No defect
+0002_000_06.png,data/aitex/NODefect_images/2311980-185026u/0002_000_06.png,06,000,0,fit,0,No defect
+0006_000_06.png,data/aitex/NODefect_images/2311980-185026u/0006_000_06.png,06,000,0,fit,0,No defect
+0012_000_06.png,data/aitex/NODefect_images/2311980-185026u/0012_000_06.png,06,000,0,fit,0,No defect
+0016_000_06.png,data/aitex/NODefect_images/2311980-185026u/0016_000_06.png,06,000,0,calib,0,No defect
+0008_000_06.png,data/aitex/NODefect_images/2311980-185026u/0008_000_06.png,06,000,0,calib,0,No defect
+0013_000_06.png,data/aitex/NODefect_images/2311980-185026u/0013_000_06.png,06,000,0,calib,0,No defect
+0020_000_06.png,data/aitex/NODefect_images/2311980-185026u/0020_000_06.png,06,000,0,calib,0,No defect
+0001_000_06.png,data/aitex/NODefect_images/2311980-185026u/0001_000_06.png,06,000,0,test,0,No defect
+0015_000_06.png,data/aitex/NODefect_images/2311980-185026u/0015_000_06.png,06,000,0,test,0,No defect
+0005_000_06.png,data/aitex/NODefect_images/2311980-185026u/0005_000_06.png,06,000,0,test,0,No defect
+0004_000_06.png,data/aitex/NODefect_images/2311980-185026u/0004_000_06.png,06,000,0,test,0,No defect
+0007_000_06.png,data/aitex/NODefect_images/2311980-185026u/0007_000_06.png,06,000,0,test,0,No defect
+0018_000_06.png,data/aitex/NODefect_images/2311980-185026u/0018_000_06.png,06,000,0,test,0,No defect
+0017_000_06.png,data/aitex/NODefect_images/2311980-185026u/0017_000_06.png,06,000,0,test,0,No defect
+0014_000_06.png,data/aitex/NODefect_images/2311980-185026u/0014_000_06.png,06,000,0,test,0,No defect

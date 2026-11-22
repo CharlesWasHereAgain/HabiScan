@@ -1,0 +1,38 @@
+{
+  "clahe+self": {
+    "image_auroc_original": 0.600033738191633,
+    "image_auroc_with_defects_erased": 0.600033738191633,
+    "defect_images_still_flagged_after_erase": 22,
+    "tile_auroc_within_defect_images": 0.6208901729876021,
+    "top_tile_hit_rate": 0.019230769230769232,
+    "top_tile_chance_rate": 0.11121794871794871,
+    "n_defect_images": 104
+  },
+  "clahe+fabric": {
+    "image_auroc_original": 0.5939608636977057,
+    "image_auroc_with_defects_erased": 0.6266869095816464,
+    "defect_images_still_flagged_after_erase": 30,
+    "tile_auroc_within_defect_images": 0.5266741030611125,
+    "top_tile_hit_rate": 0.019230769230769232,
+    "top_tile_chance_rate": 0.11121794871794871,
+    "n_defect_images": 104
+  },
+  "raw+position": {
+    "image_auroc_original": 0.8476720647773279,
+    "image_auroc_with_defects_erased": 0.8336707152496626,
+    "defect_images_still_flagged_after_erase": 60,
+    "tile_auroc_within_defect_images": 0.6195845371758769,
+    "top_tile_hit_rate": 0.1346153846153846,
+    "top_tile_chance_rate": 0.11121794871794871,
+    "n_defect_images": 104
+  },
+  "clahe+position": {
+    "image_auroc_original": 0.8468286099865048,
+    "image_auroc_with_defects_erased": 0.8348515519568152,
+    "defect_images_still_flagged_after_erase": 68,
+    "tile_auroc_within_defect_images": 0.6114252276633874,
+    "top_tile_hit_rate": 0.18269230769230768,
+    "top_tile_chance_rate": 0.11121794871794871,
+    "n_defect_images": 104
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "method": "PatchCore + per-position normal ceiling: frozen ImageNet ResNet-18 (layer2+layer3, 3x3 avg), per-fabric memory bank, 1% greedy coreset, nearest-neighbour distance, Gaussian sigma 4.0",
+  "image_threshold_rule": "95th percentile of defect-free calibration image scores",
+  "pixel_threshold_rule": "99.9th percentile of defect-free calibration pixel scores",
+  "test_set": {
+    "defect_free": 57,
+    "defective": 104
+  },
+  "memory_bank_size_per_fabric": {
+    "00": 1310,
+    "01": 1310,
+    "02": 1310,
+    "03": 1310,
+    "04": 1310,
+    "05": 1310,
+    "06": 1310
+  },
+  "main_variant": "position",
+  "main": {
+    "label": "PatchCore + position ceiling",
+    "auroc": 0.9353913630229419,
+    "avg_precision": 0.9660100918696906,
+    "threshold": 1.4675995230674743,
+    "precision": 0.9605263157894737,
+    "recall": 0.7019230769230769,
+    "f1": 0.811111111111111,
+    "false_alarm_rate": 0.05263157894736842,
+    "accuracy": 0.7888198757763976,
+    "tp": 73,
+    "fp": 3,
+    "fn": 31,
+    "tn": 54,
+    "pixel_auroc": 0.7616831669538785,
+    "pixel_threshold": 1.4839876890182495,
+    "mean_dice": 0.024254048054512128,
+    "mean_iou": 0.014513789961686278,
+    "pointing_hit_rate": 0.23076923076923078,
+    "seconds_per_strip": 0.3763618771992033
+  },
+  "shortcut_and_tile_eval": {
+    "image_auroc_original": 0.9353913630229419,
+    "image_auroc_with_defects_erased": 0.8986167341430499,
+    "defect_images_flagged_original": 73,
+    "defect_images_still_flagged_after_erase": 72,
+    "tile_auroc_within_defect_images": 0.6804447207694839,
+    "top_tile_hit_rate": 0.2980769230769231,
+    "top_tile_chance_rate": 0.11121794871794871,
+    "n_defect_images": 104
+  },
+  "bootstrap_95ci": {
+    "auroc": [
+      0.8965652595133727,
+      0.9661296695499089
+    ],
+    "f1": [
+      0.7457627118644068,
+      0.8666836734693876
+    ],
+    "recall": [
+      0.6153846153846154,
+      0.7835253689104507
+    ],
+    "precision": [
+      0.9090909090909091,
+      1.0
+    ],
+    "tile_auroc": [
+      0.6125849713961712,
+      0.7478514001019553
+    ],
+    "top_tile_hit_rate": [
+      0.21153846153846154,
+      0.38461538461538464
+    ]
+  },
+  "ablation": {
+    "plain": {
+      "label": "PatchCore (plain)",
+      "auroc": 0.9055330634278003,
+      "avg_precision": 0.9497662969741029,
+      "threshold": 13.39473557472229,
+      "precision": 0.971830985915493,
+      "recall": 0.6634615384615384,
+      "f1": 0.7885714285714286,
+      "false_alarm_rate": 0.03508771929824561,
+      "accuracy": 0.7701863354037267,
+      "tp": 69,
+      "fp": 2,
+      "fn": 35,
+      "tn": 55,
+      "pixel_auroc": 0.646331447491314,
+      "pixel_threshold": 11.047638893127441,
+      "mean_dice": 0.018066308122028592,
+      "mean_iou": 0.010273190758677211,
+      "pointing_hit_rate": 0.1346153846153846,
+      "seconds_per_strip": 0.3763618771992033,
+      "image_auroc_original": 0.9055330634278003,
+      "image_auroc_with_defects_erased": 0.8954116059379217,
+      "defect_images_flagged_original": 69,
+      "defect_images_still_flagged_after_erase": 69,
+      "tile_auroc_within_defect_images": 0.5762425483670409,
+      "top_tile_hit_rate": 0.23076923076923078,
+      "top_tile_chance_rate": 0.11121794871794871,
+      "n_defect_images": 104
+    },
+    "position": {
+      "label": "PatchCore + position ceiling",
+      "auroc": 0.9353913630229419,
+      "avg_precision": 0.9660100918696906,
+      "threshold": 1.4675995230674743,
+      "precision": 0.9605263157894737,
+      "recall": 0.7019230769230769,
+      "f1": 0.811111111111111,
+      "false_alarm_rate": 0.05263157894736842,
+      "accuracy": 0.7888198757763976,
+      "tp": 73,
+      "fp": 3,
+      "fn": 31,
+      "tn": 54,
+      "pixel_auroc": 0.7616831669538785,
+      "pixel_threshold": 1.4839876890182495,
+      "mean_dice": 0.024254048054512128,
+      "mean_iou": 0.014513789961686278,
+      "pointing_hit_rate": 0.23076923076923078,
+      "seconds_per_strip": 0.3763618771992033,
+      "image_auroc_original": 0.9353913630229419,
+      "image_auroc_with_defects_erased": 0.8986167341430499,
+      "defect_images_flagged_original": 73,
+      "defect_images_still_flagged_after_erase": 72,
+      "tile_auroc_within_defect_images": 0.6804447207694839,
+      "top_tile_hit_rate": 0.2980769230769231,
+      "top_tile_chance_rate": 0.11121794871794871,
+      "n_defect_images": 104
+    }
+  },
+  "recall_by_defect_type": [
+    {
+      "defect_name": "Fuzzyball",
+      "n": 39,
+      "detected": 21,
+      "recall": 0.5384615384615384
+    },
+    {
+      "defect_name": "Nep",
+      "n": 14,
+      "detected": 12,
+      "recall": 0.8571428571428571
+    },
+    {
+      "defect_name": "Broken end",
+      "n": 9,
+      "detected": 9,
+      "recall": 1.0
+    },
+    {
+      "defect_name": "Broken pick",
+      "n": 9,
+      "detected": 6,
+      "recall": 0.6666666666666666
+    },
+    {
+      "defect_name": "Cut selvage",
+      "n": 9,
+      "detected": 5,
+      "recall": 0.5555555555555556
+    },
+    {
+      "defect_name": "Broken yarn",
+      "n": 8,
+      "detected": 8,
+      "recall": 1.0
+    },
+    {
+      "defect_name": "Warp ball",
+      "n": 5,
+      "detected": 2,
+      "recall": 0.4
+    },
+    {
+      "defect_name": "Crease",
+      "n": 5,
+      "detected": 5,
+      "recall": 1.0
+    },
+    {
+      "defect_name": "Weft curling",
+      "n": 3,
+      "detected": 3,
+      "recall": 1.0
+    },
+    {
+      "defect_name": "Contamination",
+      "n": 1,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "defect_name": "Knots",
+      "n": 1,
+      "detected": 1,
+      "recall": 1.0
+    },
+    {
+      "defect_name": "Weft crack",
+      "n": 1,
+      "detected": 1,
+      "recall": 1.0
+    }
+  ],
+  "top_tile_hit_by_defect_type": [
+    {
+      "defect_name": "Broken end",
+      "n": 9,
+      "top_tile_hit_rate": 0.0
+    },
+    {
+      "defect_name": "Broken pick",
+      "n": 9,
+      "top_tile_hit_rate": 0.8888888888888888
+    },
+    {
+      "defect_name": "Broken yarn",
+      "n": 8,
+      "top_tile_hit_rate": 0.5
+    },
+    {
+      "defect_name": "Contamination",
+      "n": 1,
+      "top_tile_hit_rate": 1.0
+    },
+    {
+      "defect_name": "Crease",
+      "n": 5,
+      "top_tile_hit_rate": 0.0
+    },
+    {
+      "defect_name": "Cut selvage",
+      "n": 9,
+      "top_tile_hit_rate": 0.5555555555555556
+    },
+    {
+      "defect_name": "Fuzzyball",
+      "n": 39,
+      "top_tile_hit_rate": 0.23076923076923078
+    },
+    {
+      "defect_name": "Knots",
+      "n": 1,
+      "top_tile_hit_rate": 1.0
+    },
+    {
+      "defect_name": "Nep",
+      "n": 14,
+      "top_tile_hit_rate": 0.0
+    },
+    {
+      "defect_name": "Warp ball",
+      "n": 5,
+      "top_tile_hit_rate": 0.2
+    },
+    {
+      "defect_name": "Weft crack",
+      "n": 1,
+      "top_tile_hit_rate": 1.0
+    },
+    {
+      "defect_name": "Weft curling",
+      "n": 3,
+      "top_tile_hit_rate": 0.3333333333333333
+    }
+  ],
+  "auroc_by_fabric": {
+    "00": {
+      "auroc": 0.9642857142857143,
+      "n_defect": 7,
+      "n_defect_free": 8
+    },
+    "01": {
+      "auroc": 1.0,
+      "n_defect": 12,
+      "n_defect_free": 9
+    },
+    "02": {
+      "auroc": 0.9243421052631579,
+      "n_defect": 38,
+      "n_defect_free": 8
+    },
+    "03": {
+      "auroc": 0.9333333333333333,
+      "n_defect": 30,
+      "n_defect_free": 8
+    },
+    "04": {
+      "auroc": 0.925,
+      "n_defect": 10,
+      "n_defect_free": 8
+    },
+    "05": {
+      "auroc": 1.0,
+      "n_defect": 1,
+      "n_defect_free": 8
+    },
+    "06": {
+      "auroc": 0.75,
+      "n_defect": 6,
+      "n_defect_free": 8
+    }
+  },
+  "runtime_seconds_total": 364.0474545955658
+}
