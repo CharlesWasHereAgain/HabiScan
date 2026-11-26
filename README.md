@@ -15,6 +15,15 @@ Data: the AITEX Fabric Image Database (Silvestre-Blanes et al., 2019).
 | 5 | Leave-one-fabric-out evaluation | Done (`scripts/05_leave_one_fabric_out.py`) |
 | 6 | App & demo (Gradio) | Done (`app.py`, check: `scripts/06_check_app.py`) |
 
+## Quick start on a new Windows laptop (from the zip)
+
+1. Install Python 3.10+ from python.org (tick "Add python.exe to PATH").
+2. Unzip HabiScan anywhere, double-click `SETUP.bat` (one time, needs internet).
+3. Double-click `RUN_APP.bat`; the browser opens http://127.0.0.1:7860.
+
+The zip already contains the dataset and all model weights, so after setup everything
+(the app and scripts 01-07, run with `.venv\Scripts\python scripts\...`) works offline.
+
 ## Quick start: just the demo app (no dataset needed)
 
 The trained memory banks (`models/`) and three sample images (`samples/`) are in the repo,
